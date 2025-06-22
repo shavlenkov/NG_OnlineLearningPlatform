@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnrollmentService.DAL", "EnrollmentService.DAL\EnrollmentService.DAL.csproj", "{A74A2E75-BACC-44B0-AAE8-5E16CF433C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnrollmentService.BLL", "EnrollmentService.BLL\EnrollmentService.BLL.csproj", "{CD4E4F07-A9BA-46D4-B57A-619484338025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnrollmentService.WebAPI", "EnrollmentService.WebAPI\EnrollmentService.WebAPI.csproj", "{75CD04C1-F583-44FB-BD69-D76B05F3EC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74A2E75-BACC-44B0-AAE8-5E16CF433C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74A2E75-BACC-44B0-AAE8-5E16CF433C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74A2E75-BACC-44B0-AAE8-5E16CF433C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74A2E75-BACC-44B0-AAE8-5E16CF433C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4E4F07-A9BA-46D4-B57A-619484338025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4E4F07-A9BA-46D4-B57A-619484338025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4E4F07-A9BA-46D4-B57A-619484338025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4E4F07-A9BA-46D4-B57A-619484338025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CD04C1-F583-44FB-BD69-D76B05F3EC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CD04C1-F583-44FB-BD69-D76B05F3EC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CD04C1-F583-44FB-BD69-D76B05F3EC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CD04C1-F583-44FB-BD69-D76B05F3EC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
